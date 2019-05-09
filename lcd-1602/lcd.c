@@ -3,7 +3,6 @@
 int main()
 {
    int f = 10;
-   float x;
-   printf("%f Test C",f);
+   printf("Test C");
    return 0;
 }
